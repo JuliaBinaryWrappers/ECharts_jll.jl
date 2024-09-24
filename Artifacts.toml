@@ -1,0 +1,6 @@
+[ECharts]
+git-tree-sha1 = "67fe590092866ba84188ee3877f1e07d8c469e2f"
+
+    [[ECharts.download]]
+    sha256 = "a991614cec16cbacdbb16e5903ed86829af09cc214e525198c8ee86b176e73c6"
+    url = "https://github.com/JuliaBinaryWrappers/ECharts_jll.jl/releases/download/ECharts-v5.5.1+0/ECharts.v5.5.1.any.tar.gz"
