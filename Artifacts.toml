@@ -1,6 +1,6 @@
 [ECharts]
-git-tree-sha1 = "67fe590092866ba84188ee3877f1e07d8c469e2f"
+git-tree-sha1 = "6f28b86e895700b146644e8cefd1769f468c4879"
 
     [[ECharts.download]]
-    sha256 = "a991614cec16cbacdbb16e5903ed86829af09cc214e525198c8ee86b176e73c6"
-    url = "https://github.com/JuliaBinaryWrappers/ECharts_jll.jl/releases/download/ECharts-v5.5.1+0/ECharts.v5.5.1.any.tar.gz"
+    sha256 = "05f01d34b496352f9b93af636e847a4055914ca2093dff842a3a1687fbcbe85d"
+    url = "https://github.com/JuliaBinaryWrappers/ECharts_jll.jl/releases/download/ECharts-v6.0.0+0/ECharts.v6.0.0.any.tar.gz"
